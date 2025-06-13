@@ -2,7 +2,7 @@
 This is Aravind Samala...
 I love spending time coding or contemplating...
 
-_You can know more about me at https://aravindsamala.com
+_You can know more about me at https://arav.ink
   <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thyaravind&show_icons=true&theme=tokyonight)
 	<br />
